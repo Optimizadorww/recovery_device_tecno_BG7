@@ -173,7 +173,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TARGET_USES_MKE2FS := true
 
-TW_FRAMERATE := 60
+TW_FRAMERATE := 90
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 TARGET_USE_CUSTOM_LUN_FILE_PATH := "/config/usb_gadget/g1/functions/mass_storage.usb0/lun.%d/file"
 TW_MAX_BRIGHTNESS := 4095
@@ -251,4 +251,4 @@ TW_DEVICE_VERSION := H24
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 
 # Información del Mantenedor
-OF_MAINTAINER := ✧𝑹𝐞𝐛𝐳𝐲𝐲𝐱✧ | #ZYXTEAM
+OF_MAINTAINER := 𝑹𝐞𝐛𝐳𝐲𝐲𝐱
